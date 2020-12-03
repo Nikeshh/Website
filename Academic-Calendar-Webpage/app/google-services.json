@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669390476085",
+    "firebase_url": "https://academic-calendar-5f1c4.firebaseio.com",
+    "project_id": "academic-calendar-5f1c4",
+    "storage_bucket": "academic-calendar-5f1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669390476085:android:8f8a031523d427db",
+        "android_client_info": {
+          "package_name": "com.example.nikeshhbaskaran.academiccalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669390476085-1ck9jp7bt896ti0jo993pgg909bki60p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyDg6YgBAPYbGVMK1ygl-eJAlWMHCpNE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
